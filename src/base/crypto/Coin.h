@@ -40,7 +40,7 @@ public:
         WOWNERO,
         ZEPHYR,
         TOWNFORGE,
-        YADA,
+        SALVIUM,
         MAX
     };
 
